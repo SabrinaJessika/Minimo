@@ -87,7 +87,7 @@ header{
 	margin: 0px;
 }
 .g_link{
-	texst-decoration: none;
+	text-decoration: none;
 	color: #626262;
 	margin-top: 40px;
 	display: block;
@@ -118,6 +118,7 @@ header{
 /*news start*/
 .news{
 	background-color: #f0f0f0;
+	padding: 0px 0 50px 0;
 /*	min-height: 400px;*/
 }
 
